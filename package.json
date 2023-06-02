@@ -1,6 +1,6 @@
 {
   "name": "hash",
-  "version": "0.0.0",
+  "version": "0.0.1-beta",
   "description": "hash is the base command to navigate hashwarlock's terminal website",
   "author": "hashwarlock @HashWarlock",
   "bin": {
